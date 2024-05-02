@@ -131,8 +131,8 @@ const quizData = [
       answer: "H2O"
     },
     {
-        questions: [
-          {
+        
+          
             question: "What is the atomic number of carbon?",
             options: [
               "4",
@@ -602,11 +602,7 @@ const quizData = [
             ],
             answer: "Argon"
           }
-        ]
-      }
-    
-  
-  ];
+        ];
   
   // Shuffle function to randomize array elements
   function shuffle(array) {
